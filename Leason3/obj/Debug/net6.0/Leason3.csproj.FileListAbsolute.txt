@@ -1,0 +1,15 @@
+C:\GIT\SeninarC#3\Leason3\bin\Debug\net6.0\Leason3.exe
+C:\GIT\SeninarC#3\Leason3\bin\Debug\net6.0\Leason3.deps.json
+C:\GIT\SeninarC#3\Leason3\bin\Debug\net6.0\Leason3.runtimeconfig.json
+C:\GIT\SeninarC#3\Leason3\bin\Debug\net6.0\Leason3.dll
+C:\GIT\SeninarC#3\Leason3\bin\Debug\net6.0\Leason3.pdb
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.csproj.AssemblyReference.cache
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.AssemblyInfoInputs.cache
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.AssemblyInfo.cs
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.csproj.CoreCompileInputs.cache
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.dll
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\refint\Leason3.dll
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.pdb
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\Leason3.genruntimeconfig.cache
+C:\GIT\SeninarC#3\Leason3\obj\Debug\net6.0\ref\Leason3.dll
